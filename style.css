@@ -4,7 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
-  z-index: 999;
+
   scroll-behavior: smooth;
 }
 
@@ -17,6 +17,7 @@ header {
   align-items: center;
   color: darkcyan;
   padding: 10px 150px;
+  z-index: 999;
 }
 .logo {
   text-decoration: none;
