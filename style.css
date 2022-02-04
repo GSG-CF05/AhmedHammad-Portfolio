@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
   z-index: 999;
+  scroll-behavior: smooth;
 }
 
 header {
